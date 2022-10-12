@@ -1,7 +1,7 @@
 from random import sample
 import numpy as np
 import torch
-from PAS.sampling import gwg_sampler, pas_sampler, block_sampler, gibbs_sampler, adaptive_sampler
+from lbp.sampling import gwg_sampler, pas_sampler, block_sampler, gibbs_sampler, adaptive_sampler
 
 
 
